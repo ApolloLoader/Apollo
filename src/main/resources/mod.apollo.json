@@ -1,0 +1,9 @@
+{
+    "name": "${name}",
+    "version": "${version}",
+    "id": "${id}",
+    "description": "The Apollo built-in mod.",
+    "author": "UnifyCraft Team",
+    "url": "https://github.com/UnifyCraft/Apollo",
+    "entrypoint": "xyz.unifycraft.apollo.Apollo"
+}

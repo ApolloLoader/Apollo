@@ -1,0 +1,10 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "minVersion": "0.7",
+    "refmap": "mixins.${id}.refmap.json",
+    "package": "xyz.unifycraft.apollo.mixins",
+    "mixins": [
+        "MinecraftMixin",
+        "GuiMainMenuMixin"
+    ]
+}
